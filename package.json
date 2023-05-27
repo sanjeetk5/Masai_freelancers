@@ -1,0 +1,11 @@
+{
+  "name" : "MASAI_FREELANCERS",
+  "scripts": {
+    "start": "node server.js",
+    "server":"json-server --watch db.json --port 9090",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}

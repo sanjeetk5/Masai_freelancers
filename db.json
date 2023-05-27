@@ -1,0 +1,30 @@
+{
+  "freelancers": [
+    {
+      "name": "Sanjeet Kumar",
+      "profile_picture": "https://media.gettyimages.com/id/1314489757/photo/smiling-hispanic-man-against-white-background.jpg?s=612x612&w=gi&k=20&c=mU_OXyCcBWewSUuA-IQE7LYuwo7FtHqX8pVnpNSSXcQ=",
+      "email": "mastersanjeetkumar@gmail.com",
+      "password": "fdsd",
+      "profession": "Student",
+      "skills": [
+        "React"
+      ],
+      "hourly_rate": 950,
+      "isBooked": true,
+      "id": 1
+    },
+    {
+      "name": "suraj",
+      "profile_picture": "https://media.gettyimages.com/id/1314489757/photo/smiling-hispanic-man-against-white-background.jpg?s=612x612&w=gi&k=20&c=mU_OXyCcBWewSUuA-IQE7LYuwo7FtHqX8pVnpNSSXcQ=",
+      "email": "d@gmail.com",
+      "password": "wfw",
+      "profession": "Graphic Designer",
+      "skills": [
+        "Css"
+      ],
+      "hourly_rate": "750",
+      "isBooked": true,
+      "id": 2
+    }
+  ]
+}
